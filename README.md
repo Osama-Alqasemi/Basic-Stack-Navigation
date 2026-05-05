@@ -1,4 +1,4 @@
 # basic_stack_navigation
-![img](assets/image/Screenshot_20260420_165705.jpg)
-![img](assets/image/Screenshot_20260420_165710.jpg)
+![img](assets/image/home_screen.png)
+![img](assets/image/detail_screen.png)
 A new Flutter project.
